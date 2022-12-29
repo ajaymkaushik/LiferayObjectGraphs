@@ -49,6 +49,7 @@ Step 6.2 - After publishing the object click on “Fields” tab
 ![image](https://user-images.githubusercontent.com/89102588/210014863-752bd9c1-d57c-4530-8b56-745bbe59af78.png)
 
 Step 6.3 - Click on plus icon to add new field
+
 ![image](https://user-images.githubusercontent.com/89102588/210014881-e5115119-0bec-4dc3-a6fd-fd81a96a410a.png)
 
 Step 6.4 - Add Field name, Label name and field type
@@ -57,17 +58,21 @@ Step 6.4 - Add Field name, Label name and field type
 
 
 Step 6.5 - Add following list of fields one by one by following steps 6.3 and 6.4 above.
+
 ![image](https://user-images.githubusercontent.com/89102588/210014982-9c1ef772-be41-4f0f-8e28-6d7926d404d8.png)
 
 Step 7 - This newly added object now will show under Configuration Menu in your site. (I have a few other tables as well, you may not have these)
+
 ![image](https://user-images.githubusercontent.com/89102588/210015043-d3a161fa-bc7d-4e95-acc5-26f144e57894.png)
 
 
 Step 8 - Clicking on your object and then click Plus icon to open Data Add form for the object
+
 ![image](https://user-images.githubusercontent.com/89102588/210015127-8e1f578e-b20f-4bba-9791-56267ea4cc14.png)
 
 
 Step 9 - Add the data that you wish to add and repeat step 8 and 9 for number of months and years
+
 ![image](https://user-images.githubusercontent.com/89102588/210015197-cf7eac9c-073e-4b53-8b29-8df49aa43f30.png)
 
 
