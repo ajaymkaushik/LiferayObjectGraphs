@@ -5,9 +5,11 @@ The example HTML, CSS and JS code shows how you can use API calls to get data fr
   ![image](https://user-images.githubusercontent.com/89102588/209901902-7011b0f8-e1be-4059-8036-b5889074ca1c.png)
 
 2. Pie Chart -
+
   ![image](https://user-images.githubusercontent.com/89102588/209902035-c2d037e7-f1e0-4996-a165-db52df607e52.png)
 
 3. Stacked Chart - 
+
   ![image](https://user-images.githubusercontent.com/89102588/209902096-891da54c-7cfb-43d4-af66-a2d66c296b3b.png)
 
 Important assumptions while using this code -
