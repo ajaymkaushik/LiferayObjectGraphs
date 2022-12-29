@@ -1,0 +1,25 @@
+.fragment_449 {
+}
+.fragment_449 #occTable {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+.fragment_449 #occTable th:first-child, .fragment_449 #occTable td:first-child {
+    min-width: 7rem;
+}
+.fragment_449 #occTable td, .fragment_449 #occTable th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+.fragment_449 #occTable tr:nth-child(even){background-color: #f2f2f2;}
+
+.fragment_449 #occTable tr:hover {background-color: #ddd;}
+
+.fragment_449 #occTable th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #04AA6D;
+  color: white;
+}
