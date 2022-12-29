@@ -1,6 +1,6 @@
 # 3 Examples of creating graphs in fragments by using data from objects in Liferay 7.4
 
-The example HTML, CSS and JS code shows how you can use API calls to get data from Liferay Objects, and then use the data to create 3 different types of charts using Fusioncharts. (Tip - for ease of use import the .zip files as fragments in your Liferay 7.4 instance)
+The example HTML, CSS and JS code shows how you can use API calls to get data from Liferay Objects, and then use the data to create 3 different types of charts using Fusioncharts. 
 1. Combination Charts - Bargraph and line graph in the same chart
   ![image](https://user-images.githubusercontent.com/89102588/209901902-7011b0f8-e1be-4059-8036-b5889074ca1c.png)
 
@@ -25,3 +25,4 @@ I also have other fields in my object such as month and year. Here is a screensh
 
 You will need to create an object with the right fields and create entries in the table before you try and use this code. Lot of examples are available on the web to create an object in Liferay 7.4. 
 This code uses consistent code to get data from objects using Liferay.Util.Fetch function and then uses fusion charts to create the charts.
+The .zip files can be used to import this code as fragments directly in your instance. The code will not work until you have a similar structure in your objects.
