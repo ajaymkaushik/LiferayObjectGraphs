@@ -1,6 +1,6 @@
-# 3 Examples of creating graphs with data from objects in Liferay 7.4
+# 3 Examples of creating graphs in fragments by using data from objects in Liferay 7.4
 
-The example HTML, CSS and JS code shows how you can use API calls to get data from Liferay Objects, and then use the data to create 3 different types of charts using Fusioncharts
+The example HTML, CSS and JS code shows how you can use API calls to get data from Liferay Objects, and then use the data to create 3 different types of charts using Fusioncharts. (Tip - for ease of use import the .zip files as fragments in your Liferay 7.4 instance)
 1. Combination Charts - Bargraph and line graph in the same chart
   ![image](https://user-images.githubusercontent.com/89102588/209901902-7011b0f8-e1be-4059-8036-b5889074ca1c.png)
 
